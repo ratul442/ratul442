@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ratul442
+- 👋 Hi, I’m Ratul Ghosh
 - 👀 I’m interested in Machine Learning and Deep Learning
 - 🌱 I’m currently learning Computer Vision
 - 📫 How to reach me https://ghoshratul063.medium.com/ or https://www.kaggle.com/ratul6
